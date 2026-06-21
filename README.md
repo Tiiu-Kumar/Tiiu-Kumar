@@ -1,16 +1,25 @@
-## Hi there 👋
+## Tere 👋 Mina olen Tiiu Kumar
 
 <!--
-**Tiiu-Kumar/Tiiu-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Andmeanalüütiku Karjääri Algus
+Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
+## 🛠️ Tehnoloogiad, mida õpin
 
-Here are some ideas to get you started:
+ 
+- **Andmebaasid:** PostgreSQL, Supabase
+- **Programmeerimiskeeled:** Python (pandas, plotly)
+- **Visualiseerimine:** Power BI, Streamlit
+- **Versioonihaldus:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projektid
+ 
+- [**DACA Portfoolio**](https://github.com/tiiu-kumar/daca-portfolio) - 11-nädalane õppeprojekt
+
+## 📫 Kontakt
+ 
+- **Email:** tiiu.kumar@gmail.com
+
+---
+ 
+_"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard
+
